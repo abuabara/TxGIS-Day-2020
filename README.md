@@ -2,9 +2,11 @@
 
 ## WORKSHOP | Spatial Analysis in R
 
-## Author: Alexander Abuabara
+## Alexander Abuabara
 
-Date: 2020 November 17
+Nov 17, 2020, 2:00 PM - 3:30 PM
+
+Online via Zoom
 
 Register for the event (free): https://txgisday.org/sessions/#!/details/d686b727-92f7-4548-a2b3-2ac0e1527410
 

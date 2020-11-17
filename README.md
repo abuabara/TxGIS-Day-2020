@@ -1,14 +1,10 @@
-# TxGIS Day 2020
+## TxGIS Day 2020 | WORKSHOP | Spatial Analysis in R
 
-## WORKSHOP | Spatial Analysis in R
-
-### Alexander Abuabara
+**Alexander Abuabara**
 
 Nov 17, 2020, 2:00 PM - 3:30 PM
 
-Online via Zoom
-
-Register for the event (free): https://txgisday.org/sessions/#!/details/d686b727-92f7-4548-a2b3-2ac0e1527410
+Online via Zoom | Register for the event (free): https://txgisday.org/sessions/#!/details/d686b727-92f7-4548-a2b3-2ac0e1527410
 
 Zoom meeting link: https://tamu.zoom.us/j/93484751624?pwd=M0ZkcVdBQWk0aFZjYnRaMmdNTGJSUT09
 

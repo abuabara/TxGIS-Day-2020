@@ -2,7 +2,7 @@
 
 ## WORKSHOP | Spatial Analysis in R
 
-## Alexander Abuabara
+### Alexander Abuabara
 
 Nov 17, 2020, 2:00 PM - 3:30 PM
 
